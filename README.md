@@ -3,6 +3,8 @@
 
 This project aims to set up an environment for 2D isometric games, based on the side scrolling example by [GamesWithGabe](https://www.youtube.com/playlist?list=PLtrSb4XxIVbp8AKuEAlwNXDxr99e3woGE). It is primarily a proof of concept, and is not currently intended for any major release.
 
+Currently a spike is being done in a side branch, will cherry pick changes afterwards.
+
 ## Installation Instructions
 
 There's no current packaging process
